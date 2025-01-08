@@ -1,0 +1,5 @@
+DevExpress.XtraEditors.ButtonEdit, DevExpress.XtraEditors.v24.2, Version=24.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Utils.MVVM.MVVMContext, DevExpress.Utils.v24.2, Version=24.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.ImageComboBoxEdit, DevExpress.XtraEditors.v24.2, Version=24.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Utils.Filtering.FilteringUIContext, DevExpress.Utils.v24.2, Version=24.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraDataLayout.DataLayoutControl, DevExpress.XtraLayout.v24.2, Version=24.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
